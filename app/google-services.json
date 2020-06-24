@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200237639516",
+    "firebase_url": "https://delivery-61d33.firebaseio.com",
+    "project_id": "delivery-61d33",
+    "storage_bucket": "delivery-61d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200237639516:android:844e0e192a36d53c25c399",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200237639516-948mguf3mjg3hd23ie2vehqqb4o9jrle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qb_b413RZ8jHOUYYxjjY3HB-P-xlaxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200237639516-948mguf3mjg3hd23ie2vehqqb4o9jrle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
